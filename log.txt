@@ -1,0 +1,7 @@
+	Date/Time				Action/Item		Previous $	Current Balance
+20/06/2018 04:55:38 PM	FEED MONEY:            $10.00		$10.00   
+20/06/2018 04:55:38 PM	Potato Crisps      A1  $10.00 		$6.95    
+20/06/2018 04:55:38 PM	Potato Crisps      A1  $6.95 		$3.90    
+20/06/2018 04:55:38 PM	FEED MONEY:            $0.00		$3.90    
+20/06/2018 04:55:38 PM	GIVE CHANGE:           $3.90		$0.00    
+
